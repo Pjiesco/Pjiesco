@@ -18,7 +18,7 @@
 <h3>Tools and Languages:</h3>
 <hr/>
 
-<div align="center">
+<div align="center" id="toolsAndLanguages">
     <!-- visual studio code -->
     <img height="40" with="40" src="https://secrethub.io/img/vs-code.svg">
     <!-- css -->
@@ -47,6 +47,15 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     <!-- visual studio -->
     <img height="40" with="40" src="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/340?cb=20191019024151">
+</div>
+
+<br/>
+
+<h3>Connect with me:</h3>
+<hr/>
+<div align="left" id="Connect icons">
+    <!-- twitter -->
+    <a href="https://twitter.com/Pjiesco" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" height="40" with="40"></a>
 </div>
 
 
