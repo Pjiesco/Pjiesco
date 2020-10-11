@@ -3,11 +3,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on <img height="16" with="16" src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico"> **Minecraft plugins** and <img  height="16" with="16" src="https://lh3.googleusercontent.com/AOwpahHw4QKlQJgSNGuUaAR2z3RrQSd07EWqow4eo4nqZX_GIF7HWsWcXTfHnM4pQ9M"> **[TouchPortal Plugins][TP_Website]**
+- 🔭 I’m currently working on <img height="16" with="16" src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico"> **Minecraft plugins** and <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_Website]**
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on <img  height="16" with="16" src="https://lh3.googleusercontent.com/AOwpahHw4QKlQJgSNGuUaAR2z3RrQSd07EWqow4eo4nqZX_GIF7HWsWcXTfHnM4pQ9M"> **[TouchPortal Plugins][TP_Website]**
+- 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_Website]**
 
 - 💬 Ask me **What you want**
 
