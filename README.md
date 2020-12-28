@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on <img height="16" with="16" src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico"> **Minecraft plugins** and <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_Website]**
+- 🔭 I’m currently working on <!-- <img height="16" with="16" src="https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico"> **Minecraft plugins**  and --><img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_Website]**
 
 - 🌱 I’m currently learning **Everything**
 
