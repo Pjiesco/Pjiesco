@@ -1,5 +1,6 @@
 <h1 align="center">Hi👋, I'm Pjiesco</h1>
 <h3 align="center">Developer</h3>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
 
 <br/>
 
@@ -22,31 +23,33 @@
     <!-- visual studio code -->
     <img height="40" with="40" src="https://secrethub.io/img/vs-code.svg">
     <!-- css -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="icons/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <!-- git -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="icons/git-original.svg" alt="git" width="40" height="40"/> 
     <!-- html -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="icons/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <!-- java -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+    <img src="icons/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
     <!-- javascript -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="icons/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <!-- linux -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="icons/linux-original.svg" alt="linux" width="40" height="40"/> 
     <!-- mysql -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     <!-- nodejs -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="icons/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
     <!-- php -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="icons/php-original.svg" alt="php" width="40" height="40"/>
     <!-- lua -->
     <img height="40" with="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
     <!-- intellij -->
     <img height="40" with="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png">
+    <!-- trello -->
+    <img src="icons/trello-plain.svg" alt="trello" width="40" height="40"/>
     <!-- python -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="icons/python-original.svg" alt="python" width="40" height="40"/>
     <!-- csharp -->
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    <img src="icons/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     <!-- visual studio -->
     <img height="40" with="40" src="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/340?cb=20191019024151">
 </div>
