@@ -54,10 +54,6 @@
     <a href="https://trello.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/></a>
     <!-- python -->
     <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
-    <!-- csharp -->
-    <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-    <!-- visual studio -->
-    <a href="https://visualstudio.microsoft.com/"><img height="40" with="40" src="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/340?cb=20191019024151"></a>
 </div>
 
 <br/>
