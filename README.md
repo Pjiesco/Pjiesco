@@ -65,4 +65,4 @@
 
 
 [TP_WEBSITE]: https://www.touch-portal.com/ "Touch Portal Website"
-[TP_DISCORD_INVITE]: https://www.touch-portal.com/ "Touch Portal Discord"
+[TP_DISCORD_INVITE]: https://discord.gg/MgxQb8r "Touch Portal Discord"
