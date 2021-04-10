@@ -4,11 +4,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_Website]**
+- 🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][TP_DISCORD_INVITE]** and <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]**
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_Website]**
+- 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]**
 
 - 💬 Ask me **What you want**
 
@@ -17,8 +17,6 @@
 <br/>
 
 <h3>Tools and Languages:</h3>
-<hr/>
-
 <div align="center" id="toolsAndLanguages">
     <!-- visual studio code -->
     <a href="https://code.visualstudio.com/"><img height="40" with="40" src="https://secrethub.io/img/vs-code.svg"></a>
@@ -59,7 +57,6 @@
 <br/>
 
 <h3>Connect with me:</h3>
-<hr/>
 <div align="left" id="Connect icons">
     <!-- twitter -->
     <a href="https://twitter.com/Pjiesco" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" height="40" with="40"></a>
@@ -67,4 +64,5 @@
 
 
 
-[TP_Website]: https://www.touch-portal.com/
+[TP_WEBSITE]: https://www.touch-portal.com/ "Touch Portal Website"
+[TP_DISCORD_INVITE]: https://www.touch-portal.com/ "Touch Portal Discord"
