@@ -4,15 +4,17 @@
 
 <br/>
 
-- 🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][TP_DISCORD_INVITE]** and <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]**
+<!-- - 🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][TP_DISCORD_INVITE]** and <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]** -->
+
+- 🔭 I’m currently working on **[OBS WebSocket Java](https://github.com/obs-websocket-community-projects/obs-websocket-java)** 
 
 - 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]**
 
-- 💬 Ask me **What you want**
+- 💬 Ask me about **Anything**
 
-<!-- - 📫 How to reach me **** -->
+- 📫 How to reach me **Pjiesco@gmail.com**
 
 <br/>
 
@@ -26,6 +28,8 @@
     <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
     <!-- heroku -->
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+    <!-- google cloud -->
+    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> </a>
     <!-- html -->
     <a href="https://www.w3schools.com/html/"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a>
     <!-- java -->
@@ -33,7 +37,11 @@
     <!-- javascript -->
     <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
     <!-- discordjs -->
-    <a href="https://www.discord.js.org/"><img src="https://discord.js.org/static/logo-square.png" alt="discord.js" width="40" height="40"/></a>
+    <a href="https://www.discord.js.org/"><img src="https://discord.js.org/static/djs_logo.png" alt="discord.js" width="40" height="40"/></a>
+    <!-- VueJS -->
+    <a href="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" alt="VueJS" width="40" height="40"/></a>
+    <!-- VuetifyJS -->
+    <a href="https://vuetifyjs.com/"><img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" alt="VuetifyJS" width="40" height="40"/></a>
     <!-- linux -->
     <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
     <!-- mysql -->
@@ -59,7 +67,7 @@
 <h3>Connect with me:</h3>
 <div align="left" id="Connect icons">
     <!-- twitter -->
-    <a href="https://twitter.com/Pjiesco" target="_blank"><img src="https://simpleicons.org/icons/twitter.svg" height="40" with="40"></a>
+    <a href="https://twitter.com/Pjiesco" target="_blank"><img src="https://abs.twimg.com/favicons/twitter.ico" height="40" with="40"></a>
 </div>
 
 
