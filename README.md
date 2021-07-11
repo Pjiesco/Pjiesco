@@ -4,13 +4,11 @@
 
 <br/>
 
-<!-- - 🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][TP_DISCORD_INVITE]** and <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]** -->
-
-- 🔭 I’m currently working on **[OBS WebSocket Java](https://github.com/obs-websocket-community-projects/obs-websocket-java)** 
+- 🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][tp_discord_invite]**, <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]** and <img src="https://obsproject.com/favicon-16x16.png"> **[OBS WebSocket Java](https://github.com/obs-websocket-community-projects/obs-websocket-java)**
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][TP_WEBSITE]**
+- 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]**
 
 - 💬 Ask me about **Anything**
 
@@ -70,7 +68,5 @@
     <a href="https://twitter.com/Pjiesco" target="_blank"><img src="https://abs.twimg.com/favicons/twitter.ico" height="40" with="40"></a>
 </div>
 
-
-
-[TP_WEBSITE]: https://www.touch-portal.com/ "Touch Portal Website"
-[TP_DISCORD_INVITE]: https://discord.gg/MgxQb8r "Touch Portal Discord"
+[tp_website]: https://www.touch-portal.com/ "Touch Portal Website"
+[tp_discord_invite]: https://discord.gg/MgxQb8r "Touch Portal Discord"
