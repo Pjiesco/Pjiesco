@@ -4,15 +4,17 @@
 
 <br/>
 
-- 🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][tp_discord_invite]**, <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]** and <img src="https://obsproject.com/favicon-16x16.png"> **[OBS WebSocket Java](https://github.com/obs-websocket-community-projects/obs-websocket-java)**
+-   🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][tp_discord_invite]**, <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]** and <img src="https://obsproject.com/favicon-16x16.png"> **[OBS WebSocket Java](https://github.com/obs-websocket-community-projects/obs-websocket-java)**
 
-- 🌱 I’m currently learning **Everything**
+-   🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]**
+-   👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]**
 
-- 💬 Ask me about **Anything**
+-   👨‍💻 Checkout my website at https://Pjiesco.com/
 
-- 📫 How to reach me **Pjiesco@gmail.com**
+-   💬 Ask me about **Anything**
+
+-   📫 How to reach me **Pjiesco@gmail.com**
 
 <br/>
 
