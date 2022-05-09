@@ -70,5 +70,7 @@
     <a href="https://twitter.com/Pjiesco" target="_blank"><img src="https://abs.twimg.com/favicons/twitter.ico" height="40" with="40"></a>
 </div>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=Pjiesco&show_icons=true&locale=en" alt="Pjiesco" /></p>
+
 [tp_website]: https://www.touch-portal.com/ "Touch Portal Website"
 [tp_discord_invite]: https://discord.gg/MgxQb8r "Touch Portal Discord"
