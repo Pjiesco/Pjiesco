@@ -4,9 +4,9 @@
 
 <br/>
 
--   🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][tp_discord_invite]**, <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]** and **[Luximago.nl](https://luximago.nl)**
+-   🔭 I’m currently working on the <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Discord Bot][tp_discord_invite]**, <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]**
 
--   🌱 I’m currently learning **NuxtJS**
+-   🌱 I’m currently learning **Nuxt**
 
 -   👯 I’m looking to collaborate on <img src="https://www.touch-portal.com/press/icon/favicon.ico"> **[Touch Portal Plugins][tp_website]**
 
@@ -37,7 +37,9 @@
     <!-- javascript -->
     <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
     <!-- discordjs -->
-    <a href="https://www.discord.js.org/"><img src="https://discord.js.org/static/djs_logo.png" alt="discord.js" width="40" height="40"/></a>
+    <a href="https://discord.js.org/"><img src="https://discordjs.dev/favicon-32x32.png" alt="discord.js" width="40" height="40"/></a>
+    <!-- Nuxt -->
+    <a href="https://nuxt.com/"><img src="https://nuxt.com/assets/design-kit/logo/icon-green.png" alt="Nuxt" width="40" height="40"/></a>
     <!-- VueJS -->
     <a href="https://vuejs.org/"><img src="https://vuejs.org/images/logo.png" alt="VueJS" width="40" height="40"/></a>
     <!-- VuetifyJS -->
